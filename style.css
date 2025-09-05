@@ -1,0 +1,22 @@
+:root{
+    /* Fonts */
+        --title-font:"Montserrat", sans-serif;
+        --text-font:"Montserrat", sans-serif;
+        --place_holder-font:"Montserrat", sans-serif;
+
+    /* Colors */
+        --background-color:rgba(241, 240, 240, 1);
+        --background-box-color:white;
+        --title-color:rgba(55, 53, 53, 1.0);
+        --text-color:rgba(74, 74, 74, 1);
+        --button-color:rgba(90, 118, 255, 1.0);
+}
+
+/* Dark theme 
+[data-theme="dark"] {
+    --background-color: rgba(18, 18, 18, 1);  fundo geral 
+    --background-box-color: rgba(30, 30, 30, 1);  fundo dos cards 
+    --title-color: rgba(241, 241, 241, 1);  cor dos títulos 
+    --text-color: rgba(189, 189, 189, 1);  cor dos textos comuns 
+}
+*/
